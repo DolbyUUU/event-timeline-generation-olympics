@@ -65,3 +65,28 @@ The following timeline charts were generated:
 2. Individual timelines for gold, silver, and bronze medals.
 3. Day-wise breakdown of events.
 
+### Example Visualization
+
+### 1. Overall Event Timeline
+
+![Overall Timeline](figures/Tokyo%202020%20winning%20countries%20within%20Entire%20time%20range%20-%20result.png)
+
+*Figure 1: Timeline chart showing medal-winning countries for all medal types during Tokyo 2020.*
+
+---
+
+### 2. Gold Medal Events
+
+![Gold Medal Timeline](figures/Tokyo%202020%20Gold%20medal%20winning%20countries%20-%20result.png)
+
+*Figure 2: Timeline chart focusing on gold medal-winning countries during Tokyo 2020.*
+
+---
+
+### 3. Verification Data Comparison (Day 1)
+
+![Day 1 Verification](figures/Tokyo%202020%20Day%201%20details%20-%20verification.png)
+
+*Figure 3: Verification timeline for Day 1, comparing system results against official data.*
+
+
