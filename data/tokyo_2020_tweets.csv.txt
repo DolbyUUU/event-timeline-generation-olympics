@@ -1,0 +1,3 @@
+The dataset "tokyo_2020_tweets.csv" (62.78 MB) can be downloaded here:
+
+https://www.kaggle.com/datasets/gpreda/tokyo-olympics-2020-tweets
