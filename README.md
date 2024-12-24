@@ -80,7 +80,7 @@ The following timeline charts were generated:
 ### 2. Gold Medal Events
 
 <div align="center">
-  <img src="figures/Tokyo%202020%20Gold%20medal%20winning%20countries%20-%20result%20-%20.png" alt="Gold Medal Timeline" style="width:70%;">
+  <img src="figures/Tokyo%202020%20Gold%20medal%20winning%20countries%20-%20result%20.png" alt="Gold Medal Timeline" style="width:70%;">
 </div>
 
 *Figure 2: Timeline chart focusing on gold medal-winning countries during Tokyo 2020.*
@@ -95,4 +95,6 @@ The following timeline charts were generated:
 
 *Figure 3: Verification timeline for Day 1, comparing system results against official data.*
 
+## Disclaimer
 
+This project was developed as part of a group coursework assignment. Please use this project for reference or educational purposes only, and exercise caution if applying it to other use cases.
