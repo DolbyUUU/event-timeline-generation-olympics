@@ -95,6 +95,6 @@ The following timeline charts were generated:
 
 *Figure 3: Verification timeline for Day 1, comparing system results against official data.*
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This project was developed as part of a group coursework assignment. Please use this project for reference or educational purposes only, and exercise caution if applying it to other use cases.
