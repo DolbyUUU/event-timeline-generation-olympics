@@ -1,12 +1,12 @@
-# Tokyo 2020 Event Timeline Generation
+# 🏅 Olympic Games Medalist Event Timeline Generation
 
-## Overview
+## 📖 Overview
 
 This repository contains the source code and documentation for a data-driven project that generates an **event timeline** for the Tokyo 2020 Summer Olympics using Twitter data. The system employs **Natural Language Processing (NLP)** and **clustering algorithms** to detect, summarize, and visualize events from social media posts. The project focuses on extracting medal-winning events, including details such as medalists, their countries, sports, and events.
 
 ---
 
-## System Architecture
+## ⚙️ System Architecture
 
 The project pipeline consists of the following components:
 
@@ -27,7 +27,7 @@ The project pipeline consists of the following components:
 
 ---
 
-## Methodologies
+## 🧠 Methodologies
 
 - **NLP Techniques**:
   - Named-Entity Recognition (NER) for identifying medalists and countries.
@@ -40,7 +40,7 @@ The project pipeline consists of the following components:
 
 ---
 
-## Dataset
+## 📂 Datasets
 
 1. **Twitter Data**:
    - Dataset: Tokyo 2020 tweets with the hashtag `#Tokyo2020` (160,549 tweets from Kaggle).
@@ -51,7 +51,7 @@ The project pipeline consists of the following components:
 
 ---
 
-## Results
+## 📊 Results
 
 ### Performance Metrics
 
@@ -65,7 +65,7 @@ The following timeline charts were generated:
 2. Individual timelines for gold, silver, and bronze medals.
 3. Day-wise breakdown of events.
 
-## Example Visualizations
+## 🖼️ Example Visualizations
 
 ### 1. Overall Event Timeline
 
